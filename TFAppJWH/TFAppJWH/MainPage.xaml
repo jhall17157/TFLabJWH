@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TFAppJWH.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="True or False"  FontSize="Title" Padding="30,10,30,10"/>
+        <Button Clicked="QuizClick" x:Name="StartButton" Text="Start" IsVisible="true"></Button>
+        <Label x:Name="Answer" IsVisible="false"></Label>
+        <Label x:Name="QLabel" IsVisible="false"></Label>
+        <Button x:Name="True" Text="True" Clicked="True_Clicked" IsVisible="false"></Button>
+        <Button x:Name="False" Text="False" Clicked="False_Clicked" IsVisible="false"></Button>
+   
+    </StackLayout>
+
+</ContentPage>

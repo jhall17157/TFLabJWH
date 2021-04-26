@@ -1,0 +1,14 @@
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\bin\Debug\netstandard2.0\TFAppJWH.deps.json
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\bin\Debug\netstandard2.0\TFAppJWH.dll
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\bin\Debug\netstandard2.0\ref\TFAppJWH.dll
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\bin\Debug\netstandard2.0\TFAppJWH.pdb
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.csprojAssemblyReference.cache
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.AssemblyInfoInputs.cache
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.AssemblyInfo.cs
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.csproj.CoreCompileInputs.cache
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.dll
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\ref\TFAppJWH.dll
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH\obj\Debug\netstandard2.0\TFAppJWH.pdb
