@@ -574,3 +574,8 @@ C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\sta
 C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\stamp\_GenerateJavaStubs.stamp
 C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\res\drawable\apple.png
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\res\drawable\c.png
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\res\drawable\roadhog.jpg
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\res\drawable\seven.png
+C:\Users\hallj\source\repos\TFAppJWH\TFAppJWH\TFAppJWH.Android\obj\Debug\110\res\drawable\usa.png

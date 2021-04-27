@@ -11,9 +11,17 @@
         <Button Clicked="QuizClick" x:Name="StartButton" Text="Start" IsVisible="true"></Button>
         <Label x:Name="Answer" IsVisible="false"></Label>
         <Label x:Name="QLabel" IsVisible="false"></Label>
-        <Button x:Name="True" Text="True" Clicked="True_Clicked" IsVisible="false"></Button>
-        <Button x:Name="False" Text="False" Clicked="False_Clicked" IsVisible="false"></Button>
-   
+        <!--<Button x:Name="True" Text="True" Clicked="True_Clicked" IsVisible="false"></Button>
+        <Button x:Name="False" Text="False" Clicked="False_Clicked" IsVisible="false"></Button>-->
+        <Image WidthRequest="300" HeightRequest="300" HorizontalOptions="Center" 
+                 VerticalOptions="CenterAndExpand" x:Name="Swiper" IsVisible="false">
+            <Image.GestureRecognizers>
+                <!-- Can also set a swipe threshold on each gesture recognizer -->
+                <SwipeGestureRecognizer Direction="Left" Swiped="False_Swiped"/>
+                <SwipeGestureRecognizer Direction="Right" Swiped="True_Swiped"/>
+            </Image.GestureRecognizers>
+        </Image>
+
     </StackLayout>
 
 </ContentPage>
